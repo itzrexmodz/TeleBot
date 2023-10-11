@@ -16,7 +16,7 @@
 
 import os
 
-from telebot import ALIVE_NAME, CMD_HELP, CMD_HNDLR, CMD_LIST
+from telebot import CMD_HELP, CMD_HNDLR, CMD_LIST
 from telebot.telebotConfig import Config
 
 DEFAULTUSER = "Aditya"
