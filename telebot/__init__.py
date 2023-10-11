@@ -106,7 +106,6 @@ if bool(ENV):
     YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", None)
 
     # Default .alive name
-    ALIVE_NAME = "Aaditya"
 
     # for autopic
     AUTOPIC_TEXT = os.environ.get(
